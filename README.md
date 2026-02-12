@@ -17,7 +17,7 @@ All labs are completed using Google Colab and follow the course requirements.
 __________________________________________________________
 
 LAB 2 - COMPLETED ✅
-📊 Credit Card Fraud Detection
+ Credit Card Fraud Detection
 
 Objective:
 Identify a machine learning problem, select an open dataset, load/inspect the data, 
