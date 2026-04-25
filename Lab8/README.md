@@ -1,6 +1,7 @@
 Classifying Hidden Data with KNN
 
 The Goal
+
 In this project, I worked with a dataset that was a bit of a mystery none of the columns had real names, just numerical values. The objective was to build a K-Nearest Neighbors (KNN) model that could look at these numbers and accurately predict which class a data point belonged to.
 
 What I Did
