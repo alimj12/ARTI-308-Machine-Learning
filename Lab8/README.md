@@ -8,7 +8,9 @@ In this project, I worked with a dataset that was a bit of a mystery none of the
 What I Did
 
 
+
 Getting the Data Ready:
+
 The first thing I realized was that the numbers in the different columns weren't on the same scale. Since KNN works by measuring the physical distance between data points, a large number in one column could easily trick the model into thinking that feature is more important than others. I fixed this by using StandardScaler to normalize everything, ensuring each feature had a mean of 0 and a standard deviation of 1.
 
 
