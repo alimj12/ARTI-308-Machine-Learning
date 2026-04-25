@@ -31,4 +31,5 @@ Tools Used:
 I used Python along with the standard data science stack: Pandas for handling the tables, Matplotlib for visualizing the error rates, and Scikit-Learn for the machine learning and data scaling.
 
 How to View:
+
 You can open the .ipynb file in Google Colab or Jupyter to see the step-by-step code, the visualizations, and the final classification report.
