@@ -1,4 +1,4 @@
-**Lab #6: E-commerce Customer Spend Prediction.**
+**Lab #6: E-commerce Customer Spend Prediction**
 
 **The Goal:**
 
