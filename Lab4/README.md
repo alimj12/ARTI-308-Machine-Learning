@@ -1,11 +1,10 @@
-Lab#4: Data Quality Assessment & Preprocessing
+**Lab#4: Data Quality Assessment & Preprocessing**
 
-
-The Goal
+**The Goal**
 
 In this project, I moved beyond basic analysis to perform advanced Data Preprocessing on the credit card fraud dataset. The primary objective was to engineer the data into a high-quality format suitable for machine learning, focusing on noise reduction, outlier handling, and compressing 30 technical dimensions into a streamlined set of principal components.
 
-What I Did
+#What I Did#
 
 •	Handling Missing Values & Noise: I implemented a robust missing value strategy using Median Imputation. This was chosen over the mean to prevent skewed financial data and outliers from biasing the dataset.
 
