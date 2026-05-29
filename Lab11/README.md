@@ -1,4 +1,4 @@
-**Lab #11: Credit Card Customer Segmentation (K-Means Clustering)*
+**Lab #11: Credit Card Customer Segmentation (K-Means Clustering)**
 
 **The Goal:**
 
