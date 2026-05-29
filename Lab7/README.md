@@ -1,4 +1,4 @@
-**Lab #7: Logistic Regression Project**
+**Lab #7: Logistic Regression Project.**
 
 
 **The Goal:**
