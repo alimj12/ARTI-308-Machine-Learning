@@ -4,7 +4,7 @@
 
 In this project, I moved beyond basic analysis to perform advanced Data Preprocessing on the credit card fraud dataset. The primary objective was to engineer the data into a high-quality format suitable for machine learning, focusing on noise reduction, outlier handling, and compressing 30 technical dimensions into a streamlined set of principal components.
 
-**(*What I Did)**
+**What I Did**
 
 •	Handling Missing Values & Noise: I implemented a robust missing value strategy using Median Imputation. This was chosen over the mean to prevent skewed financial data and outliers from biasing the dataset.
 
@@ -16,11 +16,11 @@ In this project, I moved beyond basic analysis to perform advanced Data Preproce
 
 •	Visualizing Anomalies: I created a 2D PCA Projection plot to visualize the high-dimensional data. This allowed me to see how fraudulent-like transactions "drift" away from the main cluster of legitimate activities, providing a clear visual map for anomaly detection.
 
-The Results
+**The Results**
 
 The preprocessing phase successfully simplified the dataset from 30 features down to 5, while maintaining over half of the original information. The visualization confirmed that fraud isn't always about the dollar amount, but about the statistical deviation from normal behavior. This refined dataset is now ready for high-performance classification models.
 
-Tools Used
+**Tools Used**
 
 •	Python: For advanced technical automation.
 
@@ -32,7 +32,7 @@ Tools Used
 
 •	Google Colab: For cloud-based interactive development.
 
-How to View
+**How to View**
 
 Open the Lab#4 Ali Aljanabi.ipynb file in Google Colab or Jupyter Notebook. The notebook follows a structured pipeline: from data cleaning to final dimensionality reduction, with detailed cybersecurity-focused insights at every step.
 
