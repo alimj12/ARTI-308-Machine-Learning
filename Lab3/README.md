@@ -1,7 +1,7 @@
 Lab#3: Credit Card Fraud Detection with EDA
 
 
-###The Goal
+The Goal
 
 In this project, I performed a comprehensive Exploratory Data Analysis (EDA) on a highly imbalanced dataset of credit card transactions. The objective was to uncover hidden patterns, analyze temporal trends of fraudulent activities, and understand the relationships between anonymized technical features (V1-V28) to prepare the data for building a robust Fraud Detection system.
 
