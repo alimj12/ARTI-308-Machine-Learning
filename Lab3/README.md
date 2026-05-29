@@ -5,6 +5,7 @@ The Goal
 In this project, I performed a comprehensive Exploratory Data Analysis (EDA) on a highly imbalanced dataset of credit card transactions. The objective was to uncover hidden patterns, analyze temporal trends of fraudulent activities, and understand the relationships between anonymized technical features (V1-V28) to prepare the data for building a robust Fraud Detection system.
 
 What I Did
+
 •	Data Cleaning & Preprocessing: I started by ensuring the data was "clean" for analysis. This involved checking for missing values and duplicates. Since fraud datasets are naturally imbalanced (legitimate transactions far outnumber fraudulent ones), I focused on analyzing the distribution of the Class target variable.
 •	Bivariate & Multivariate Analysis: I explored the relationship between transaction Amount and Time. Since fraudulent transactions are often "hidden" within the noise of normal data, I used advanced layering techniques in my scatter plots to highlight fraud points (in red) against legitimate ones (in blue), making the anomalies clearly visible.
 •	Correlation & Feature Insights: I generated a Correlation Heatmap to see how the features relate to one another. Since the features $V1-V28$ are transformed using PCA (Principal Component Analysis), I looked for strong positive or negative correlations with the Class variable to identify which features are the most significant "red flags" for fraud.
