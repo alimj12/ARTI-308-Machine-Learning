@@ -7,8 +7,11 @@ In this project, I performed a comprehensive Exploratory Data Analysis (EDA) on 
 What I Did
 
 •	Data Cleaning & Preprocessing: I started by ensuring the data was "clean" for analysis. This involved checking for missing values and duplicates. Since fraud datasets are naturally imbalanced (legitimate transactions far outnumber fraudulent ones), I focused on analyzing the distribution of the Class target variable.
+
 •	Bivariate & Multivariate Analysis: I explored the relationship between transaction Amount and Time. Since fraudulent transactions are often "hidden" within the noise of normal data, I used advanced layering techniques in my scatter plots to highlight fraud points (in red) against legitimate ones (in blue), making the anomalies clearly visible.
+
 •	Correlation & Feature Insights: I generated a Correlation Heatmap to see how the features relate to one another. Since the features $V1-V28$ are transformed using PCA (Principal Component Analysis), I looked for strong positive or negative correlations with the Class variable to identify which features are the most significant "red flags" for fraud.
+
 •	Time-Based Distribution: I analyzed the temporal patterns of fraud using a histogram. This revealed that fraudulent activities aren't random; they often occur in bursts or clusters, which is a vital insight for real-time security monitoring.
 
 The Results
