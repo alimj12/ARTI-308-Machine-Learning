@@ -2,7 +2,7 @@
 
 **The Goal:**
 
-In this project, I implemented a Support Vector Machines (SVM) model to classify different species of Iris flowers. The objective was to analyze biological measurements—such as sepal and petal dimensions—to build a high-precision classifier capable of distinguishing between three related species: Setosa, Versicolor, and Virginica.
+In this project, I implemented a Support Vector Machines (SVM) model to classify different species of Iris flowers. The objective was to analyze biological measurements such as sepal and petal dimensions to build a high precision classifier capable of distinguishing between three related species: Setosa, Versicolor, and Virginica.
 
 **What I Did:**
 
@@ -16,7 +16,7 @@ In this project, I implemented a Support Vector Machines (SVM) model to classify
 
 **The Results:**
 
-The optimized SVM model achieved an impressive accuracy of 98%. The analysis confirmed that while simple sepal measurements provide a baseline, the combination of petal length and width is highly predictive of the species. The project demonstrated that even with overlapping data points, a tuned SVM with an RBF kernel can achieve near-perfect classification.
+The optimized SVM model achieved an impressive accuracy of 98%. The analysis confirmed that while simple sepal measurements provide a baseline, the combination of petal length and width is highly predictive of the species. The project demonstrated that even with overlapping data points, a tuned SVM with an RBF kernel can achieve near perfect classification.
 
 **Tools Used:**
 
