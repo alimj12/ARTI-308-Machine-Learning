@@ -32,5 +32,5 @@ The optimized SVM model achieved an impressive accuracy of 98%. The analysis con
 
 **How to View:**
 
-Open the Lab 10 - Abdulaziz Abdulwahab Alabdulwahab.ipynb file in Google Colab or Jupyter Notebook. You will find the complete classification pipeline, including the pairplot visualizations, the grid search results, and the final model performance metrics.
+Open the Lab#10 Ali Aljanabi.ipynb file in Google Colab or Jupyter Notebook. You will find the complete classification pipeline, including the pairplot visualizations, the grid search results, and the final model performance metrics.
 
