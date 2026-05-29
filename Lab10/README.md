@@ -1,4 +1,4 @@
-**Lab #10: Iris Flower Classification with Support Vector Machines (SVM)*
+**Lab #10: Iris Flower Classification with Support Vector Machines (SVM)**
 
 **The Goal:**
 
