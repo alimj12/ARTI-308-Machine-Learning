@@ -3,7 +3,7 @@
 
 **The Goal:**
 
-In this project, I built a Binary Classification model using Logistic Regression to predict whether a specific internet user will click on an advertisement. The objective was to analyze user demographics and digital behavior—such as daily internet usage and time spent on the site—to create a predictive tool that can help businesses optimize their targeted marketing campaigns.
+In this project, I built a Binary Classification model using Logistic Regression to predict whether a specific internet user will click on an advertisement. The objective was to analyze user demographics and digital behavior such as daily internet usage and time spent on the site to create a predictive tool that can help businesses optimize their targeted marketing campaigns.
 
 **What I Did:**
 
@@ -14,7 +14,8 @@ relationship between Age and Area Income, as well as Daily Time Spent on Site ve
 
 •	Logistic Regression Modeling: I implemented and trained a LogisticRegression model. This involved teaching the algorithm to find the optimal "decision boundary" that separates users who click on ads from those who do not.
 
-•	Classification Diagnostics: I evaluated the model using a Confusion Matrix to track true positives and false positives. I also generated a Classification Report to analyze precision, recall, and the F1-score, ensuring the model is reliable for real-world deployment.
+•	Classification Diagnostics: I evaluated the model using a Confusion Matrix to track true positives and false positives. 
+I also generated a Classification Report to analyze precision, recall, and the F1-score, ensuring the model is reliable for real world deployment.
 
 **The Results:**
 
